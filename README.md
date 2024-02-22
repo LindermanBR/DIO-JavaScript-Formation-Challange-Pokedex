@@ -2,7 +2,7 @@
 
 # Sobre o projeto
 
-[Link do Deploy](https://lindermanbr.github.io/DIO-CSS-Formation-Challange-Discord-Clone/)
+[Link do Deploy](https://lindermanbr.github.io/DIO-JavaScript-Formation-Challange-Pokedex/)
 
 Pokedex criada com HTML e CSS consumindo a [PokeApi](https://pokeapi.co/) com o JavaScript para listar os pokemons.
 Pojeto criado com intuito de demonstrar as habilidades adquiridas na formação de JavaScript da DIO
